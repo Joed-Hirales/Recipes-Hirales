@@ -1,0 +1,19 @@
+.contenedor {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    height: 20vh;
+    width: 100vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo img{
+    height: auto;
+    width: 200px;
+    border-radius: 50px;
+}
+
+.hTitulo {
+    font-size: 50px;
+}
